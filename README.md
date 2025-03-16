@@ -3,19 +3,13 @@
  ## Project info
  # 🎵 Lofi Soundscaper
  
- **URL**: https://lovable.dev/projects/36b17fdb-b051-45f1-a556-115f39bea9af
  Transform any YouTube video into a chill lo-fi track with customizable audio effects!
  
- ## How can I edit this code?
- ![Lofi Soundscaper Screenshot](https://placehold.co/600x400?text=Lofi+Soundscaper)
  
- There are several ways of editing your application.
  ## ✨ What is Lofi Soundscaper?
  
- **Use Lovable**
- Lofi Soundscaper is a web application that lets you convert regular music from YouTube into relaxing lo-fi versions. It's perfect for creating study music, sleep sounds, or just chilling out with some mellow beats.
+  Lofi Soundscaper is a web application that lets you convert regular music from YouTube into relaxing lo-fi versions. It's perfect for creating study music, sleep sounds, or just chilling out with some mellow beats.
  
- Simply visit the [Lovable Project](https://lovable.dev/projects/36b17fdb-b051-45f1-a556-115f39bea9af) and start prompting.
  ### Features
  
  Changes made via Lovable will be committed automatically to this repo.
