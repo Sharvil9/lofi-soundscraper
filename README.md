@@ -5,7 +5,7 @@
  
  Transform any YouTube video into a chill lo-fi track with customizable audio effects!
  
- 
+ ![Screenshot-main](lofi-soundscaper/public/lofi-soundscraper-main.png)
  ## ✨ What is Lofi Soundscaper?
  
   Lofi Soundscaper is a web application that lets you convert regular music from YouTube into relaxing lo-fi versions. It's perfect for creating study music, sleep sounds, or just chilling out with some mellow beats.
